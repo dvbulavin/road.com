@@ -1,0 +1,9 @@
+[submodule "bot_road.com"]
+	path = bot_road.com
+	url = https://github.com/dvbulavin/bot_road.com.git
+[submodule "control_road.com"]
+	path = control_road.com
+	url = https://github.com/dvbulavin/control_road.com
+[submodule "db_road.com"]
+	path = db_road.com
+	url = https://github.com/dvbulavin/db_road.com
